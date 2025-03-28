@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+
+    // Tela 1 - String do Projeto
+    <string name="appT1btnIniciar">CALCULADORA IMC</string>
+
+    //Tela 2:
+    <string name="appT2Titulo">CALCULAR IMC</string>
+    <string name="appT2Peso">Peso: </string>
+    <string name="appT2Altura">Altura: </string>
+    <string name="appT2BtnCalcular">Calcular</string>
+    <string name="appT2BtnLimpar">LIMPAR</string>
+    <string name="appT2BtnFechar">FECHAR</string>
+
+    //Tela 3:
+    <string name="appT3Titulo">RESULTADO: </string>
+    <string name="appT3BtnFechar">FECHAR</string>
+    <string name="appT3Classificacao">ABAIXO DO PESO</string>
+    <string name= "appT3Feedback">Pequenas mudanças no dia dia fazem uma grande diferença, e cada passo em direção a uma vida mais saudável fortalece voçê</string>
+    <string name= "appT3Peso">Peso:</string>
+    <string name= "appT3Altura">Altura:</string>
+    <string name="appT3Imc">IMC:</string>
+
+
+
+    //Tela 4:
+    <string name="appT4Titulo">RESULTADO</string>
+    <string name="appT4BtnFechar">FECHAR</string>
+    <string name="appT4Classificacao">PESO NORMAL</string>
+    <string name= "appT4Feedback">Pequenas mudanças no dia dia fazem uma grande diferença, e cada passo em direção a uma vida mais saudável fortalece voçê</string>
+    <string name= "appT4Peso">Peso:</string>
+    <string name= "appT4Altura">Altura:</string>
+    <string name="appT4Imc">IMC:</string>
+
+
+    //Tela 5:
+    <string name="appT5Titulo">RESULTADO</string>
+    <string name="appT5BtnFechar">FECHAR</string>
+    <string name="appT5Classificacao">SOBREPESO</string>
+    <string name= "appT5Feedback">Pequenas mudanças no dia dia fazem uma grande diferença, e cada passo em direção a uma vida mais saudável fortalece voçê</string>
+    <string name= "appT5Peso">Peso:</string>
+    <string name= "appT5Altura">Altura:</string>
+    <string name="appT5Imc">IMC:</string>
+
+
+    //Tela 6:
+    <string name="appT6Titulo">RESULTADO</string>
+    <string name="appT6BtnFechar">FECHAR</string>
+    <string name="appT6Classificacao">OBESIDADE GRAU 1</string>
+    <string name= "appT6Feedback">Pequenas mudanças no dia dia fazem uma grande diferença, e cada passo em direção a uma vida mais saudável fortalece voçê</string>
+    <string name= "appT6Peso">Peso:</string>
+    <string name= "appT6Altura">Altura:</string>
+    <string name="appT6Imc">IMC:</string>
+
+
+    //Tela 7:
+    <string name="appT7Titulo">RESULTADO</string>
+    <string name="appT7BtnFechar">FECHAR</string>
+    <string name="appT7Classificacao">OBESIDADE GRAU 2</string>
+    <string name= "appT7Feedback">Pequenas mudanças no dia dia fazem uma grande diferença, e cada passo em direção a uma vida mais saudável fortalece voçê</string>
+    <string name= "appT7Peso">Peso:</string>
+    <string name= "appT7Altura">Altura:</string>
+    <string name="appT7Imc">IMC:</string>
+
+
+
+    //Tela 8:
+    <string name="appT8Titulo">RESULTADO</string>
+    <string name="appT8BtnFechar">FECHAR</string>
+    <string name="appT8Classificacao">OBESIDADE GRAU 3</string>
+    <string name= "appT8Feedback">Pequenas mudanças no dia dia fazem uma grande diferença, e cada passo em direção a uma vida mais saudável fortalece voçê</string>
+    <string name= "appT8Peso">Peso:</string>
+    <string name= "appT8Altura">Altura:</string>
+    <string name="appT8Imc">IMC:</string>
+
+
+</resources>
